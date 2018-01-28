@@ -1,0 +1,8 @@
+C:\Proyectos\Pronunciapp\Pronunciapp\Pronunciapp\bin\Debug\Pronunciapp.exe.config
+C:\Proyectos\Pronunciapp\Pronunciapp\Pronunciapp\bin\Debug\Pronunciapp.exe
+C:\Proyectos\Pronunciapp\Pronunciapp\Pronunciapp\bin\Debug\Pronunciapp.pdb
+C:\Proyectos\Pronunciapp\Pronunciapp\Pronunciapp\obj\Debug\Pronunciapp.csprojResolveAssemblyReference.cache
+C:\Proyectos\Pronunciapp\Pronunciapp\Pronunciapp\obj\Debug\Pronunciapp.exe
+C:\Proyectos\Pronunciapp\Pronunciapp\Pronunciapp\obj\Debug\Pronunciapp.pdb
+C:\Proyectos\Pronunciapp\Pronunciapp\Pronunciapp\bin\Debug\NAudio.dll
+C:\Proyectos\Pronunciapp\Pronunciapp\Pronunciapp\bin\Debug\NAudio.xml
